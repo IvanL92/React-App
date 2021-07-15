@@ -1,2 +1,2 @@
-# react-inicial
+# react
  Tareas en React
